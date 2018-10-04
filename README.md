@@ -10,14 +10,16 @@ https://www.kaggle.com/zalando-research/fashionmnist
 
 # Installations:
 
-- Tensorflow
+!pip install -q -U tensorflow>=1.8.0
+
+- tensorflow 
 
 - Keras
 
+- numpy 
 
-- cv2
+- matplotlib
 
-- numpy
+# GoogleColab
 
-
-
+https://colab.research.google.com/notebooks/welcome.ipynb#recent=true
