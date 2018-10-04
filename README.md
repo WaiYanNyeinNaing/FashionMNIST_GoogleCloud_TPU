@@ -1,5 +1,5 @@
-# FashionMNIST_GoogleCloud_TPU
-# Train_FashionMNIST_Google_Colab_Cloud_TPU
+# FashionMNIST_Classifiation_GoogleCloud_TPU
+
 
 ![Screenshot](Fashion.png)
 
