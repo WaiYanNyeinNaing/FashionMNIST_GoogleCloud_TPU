@@ -10,17 +10,19 @@ https://www.kaggle.com/zalando-research/fashionmnist
 
 # Installations:
 
-!pip install -q -U tensorflow>=1.8.0
-!pip install numpy
-!pip install matplotlib
+- !pip install -q -U tensorflow>=1.8.0  (tensorflow)
 
-- tensorflow 
+- !pip install numpy
+  
+- !pip install h5py graphviz pydot
+  
+- !pip install keras
+  
+- !pip install matplotlib
+  
+- !pip install scikit-plot
 
-- Keras
 
-- numpy 
-
-- matplotlib
 
 # GoogleColab
 
