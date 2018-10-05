@@ -27,3 +27,8 @@ https://www.kaggle.com/zalando-research/fashionmnist
 # GoogleColab
 
 https://colab.research.google.com/notebooks/welcome.ipynb#recent=true
+
+
+
+
+*If you like this work please help me by giving me some stars.
